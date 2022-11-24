@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.25.0)
 
 project(Tiles)
 
-set(SFML_DIR D:/a/15-tiles-cpp/15-tiles-cpp/SFML/lib/cmake/SFML
+set(SFML_DIR D:/a/15-tiles-cpp/15-tiles-cpp/SFML/lib/cmake/SFML)
 
 find_package(SFML COMPONENTS graphics window system REQUIRED)
 
